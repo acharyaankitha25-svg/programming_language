@@ -1,0 +1,4 @@
+a=int(inpurt("enter a number"));
+b=int(input("enter a number"));
+sum=a+b;
+print("sum=",sum);
